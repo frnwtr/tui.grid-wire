@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Frnwtr\TUIGridWire\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class TUIGridWireCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'tui-grid-wire';
 
     public $description = 'My command';
 
