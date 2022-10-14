@@ -2,9 +2,9 @@
 
 namespace Frnwtr\TUIGridWire\Tests;
 
+use Frnwtr\TUIGridWire\TUIGridWireServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Frnwtr\TUIGridWire\TUIGridWireServiceProvider;
 
 class TestCase extends Orchestra
 {

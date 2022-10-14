@@ -2,9 +2,9 @@
 
 namespace Frnwtr\TUIGridWire;
 
+use Frnwtr\TUIGridWire\Commands\TUIGridWireCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Frnwtr\TUIGridWire\Commands\TUIGridWireCommand;
 
 class TUIGridWireServiceProvider extends PackageServiceProvider
 {
